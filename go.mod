@@ -23,7 +23,7 @@ require (
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/openzipkin/zipkin-go v0.3.0 // indirect
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli v1.22.5
